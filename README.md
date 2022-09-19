@@ -13,7 +13,7 @@ Current Interests:
 <table>
   <tr>
     <td>   
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrogiovanni&layout=compact&exclude_repo=corso_data_science,advent-of-code-2019,MiniFold,telaviv2,nb-tv-outlier,randomcutforest,iShop)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrogiovanni&layout=compact&exclude_repo=corso_data_science,advent-of-code-2019,MiniFold,telaviv2,nb-tv-outlier,randomcutforest,iShop)](https://github.com/anuraghazra/github-readme-stats)
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=mastrogiovanni&show_icons=true" alt="Github Activity">
