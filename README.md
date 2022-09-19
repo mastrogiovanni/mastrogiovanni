@@ -10,16 +10,13 @@ Current Interests:
 - 🌱 I’m currently learning: New programming languages, new Open Source Cloud Native softwares
 - 👯 I’m looking to collaborate on [Capsule](https://github.com/clastix/capsule)
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-
-  <div style="display: inline-block;">
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrogiovanni&layout=compact&exclude_repo=corso_data_science,advent-of-code-2019,MiniFold,telaviv2,nb-tv-outlier,randomcutforest,iShop)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-  <div style="display: inline-block;">
-    
-<img src="https://github-readme-stats.vercel.app/api?username=mastrogiovanni&show_icons=true" alt="Github Activity">
-    
-  </div>
-</div>
+<table>
+  <tr>
+    <td>   
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastrogiovanni&layout=compact&exclude_repo=corso_data_science,advent-of-code-2019,MiniFold,telaviv2,nb-tv-outlier,randomcutforest,iShop)](https://github.com/anuraghazra/github-readme-stats)
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mastrogiovanni&show_icons=true" alt="Github Activity">
+    </td>
+  </tr>
+</table>
