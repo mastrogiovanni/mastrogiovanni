@@ -2,6 +2,7 @@
 
 Current Interests:
 - 🕹️ Machine Learning, AI
+- 🔌 LLMs
 - 🌐 Cloud Native Distributed Systems
 - 🔌 Kubernetes, Docker...
 
